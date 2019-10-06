@@ -1,0 +1,30 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    max-height: 500px;
+    max-width: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    box-shadow: 0 6px 15px rgba(36, 37, 38, 0.486);
+    padding: 20px;
+    border-radius: 2px;
+}
+
+.card-title{
+    text-transform: capitalize;
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(0, 0, 0);
+}
+
+.card-img{
+    max-width: 150px;
+    width: 150px;
+}
+
+.id{
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+}

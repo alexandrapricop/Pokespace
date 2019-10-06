@@ -1,0 +1,41 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title{
+    margin: 100px auto;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: lighter;
+    color: rgb(71, 70, 70);
+}
+
+.instructions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.card-link{
+    color: black;
+    transition: all 0.3s ease-in;
+}
+
+.card-link:hover{
+    transform: scale(1.1);
+}
+
+
+@media (max-width:768px){
+    .instructions {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 100%;
+        justify-items: center;
+        align-items: center;
+    }
+}

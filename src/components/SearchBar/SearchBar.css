@@ -1,0 +1,11 @@
+.search input{
+    height: 50px;
+    max-width: 90%;
+    width: 500px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.search{
+    padding: 20px;
+}

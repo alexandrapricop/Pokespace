@@ -1,0 +1,14 @@
+.footer{
+    max-height: 10vh;
+    background: red;
+    color: white;
+    box-sizing: border-box;
+    padding: 5px;
+    justify-self: flex-end;
+    align-self: flex-end;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    align-self: center;
+    justify-self: center;
+}

@@ -1,0 +1,22 @@
+.instruction-card{
+    display: flex;
+    flex-direction: column;
+    max-height: 500px;
+    max-width: 500px;
+    align-items: center;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    box-shadow: 0 6px 15px rgba(36, 37, 38, 0.486);
+    padding: 20px;
+    border-radius: 2px;
+    margin: 20px;
+}
+
+.instruction-title{
+    margin: 20px auto;
+    color: red;
+}
+
+.instruction-card p{
+    font-size: 15pt;
+}
