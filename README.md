@@ -18,12 +18,11 @@ What things you need to install the software
 
 ### Installing
 ```
-* install the node packages 
+install the node packages 
     *npm install*
  ```
 ```
-
-* start the application
+start the application
     *npm start*
 ```
 
