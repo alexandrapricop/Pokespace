@@ -13,12 +13,26 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software 
 
 * Node.js
+* A web browser
 
 
 ### Installing
+```
+* install the node packages 
+    *npm install*
+* start the application
+    *npm start*
 
-1. install the node packages 
-    ```
-    npm install
+
+## Built With
+
+* React.js
+* CSS
+* Pokemon API
+
+## Authors
+
+* **Pricop Alexandra**
+
 
 
