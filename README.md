@@ -20,8 +20,12 @@ What things you need to install the software
 ```
 * install the node packages 
     *npm install*
+ ```
+```
+
 * start the application
     *npm start*
+```
 
 
 ## Built With
